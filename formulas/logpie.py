@@ -1,6 +1,6 @@
 from decimal import Decimal
-from pi import *
-from euler import *
+from formulas.pi import *
+from formulas.euler import *
 
 
 def logpie():
